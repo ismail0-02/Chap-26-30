@@ -71,6 +71,12 @@ console.log("Random number between 1 till 100 :",int100);
 // ques 7 //
 // ans 7 //
 
+// let userWeight = prompt("Enter your weight in kilograms:");
+// userWeight = parseFloat(userWeight);
+// console.log(`The weight of user is ${userWeight} kilograms!`);
+
+// console.log(userWeight);
+
 
 // ques 8 //
 // ans 8 //
